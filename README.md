@@ -1,5 +1,3 @@
-# diceRollGame2
-
 # 🎲 Dice Roll Game 2
 
 Dice Roll Game 2 is a simple Node.js + Express application that simulates rolling a dice and returns a random number between 1 and 6. 
